@@ -9,7 +9,8 @@ h1 {color:blue;font-size:13;}
 
 
 .myClass
-{border:#09264A;
+{
+  border:#09264A;
   font-size:30%;
 }
 
