@@ -8,8 +8,10 @@ h1 {color:blue;font-size:13;}
 }
 
 
-myClass
-
+.myClass
+{background-color:gray;
+  font-size:360%;
+}
 
 
 
